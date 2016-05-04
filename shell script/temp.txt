@@ -1,0 +1,2 @@
+clear temp,then write 这是重新写入的字段
+add a text
